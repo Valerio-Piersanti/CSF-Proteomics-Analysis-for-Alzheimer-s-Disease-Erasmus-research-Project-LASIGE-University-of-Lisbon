@@ -59,6 +59,4 @@ Project presentations documenting project progress and final results.
 
 Valerio Piersanti
 
-Erasmus Research Project
-
-LASIGE – University of Lisbon
+LASIGE – University of Lisbon - University of Bologna
