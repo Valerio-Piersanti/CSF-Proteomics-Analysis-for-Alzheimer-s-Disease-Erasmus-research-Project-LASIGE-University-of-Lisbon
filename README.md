@@ -1,5 +1,12 @@
 # CSF Proteomics Analysis for Alzheimer's Disease
 
+<p align="center">
+  <img src="images/Logo_folder/field_image_normal_lasige.jpg" height="80">
+  <img src="images/Logo_folder/unibo_logo.jpg" height="80">
+  <img src="images/Logo_folder/ciencas_logo.png" height="80">
+  <img src="images/Logo_folder/ulisboa_logo.png" height="80">
+</p>
+
 ## Overview
 
 This repository contains the code, figures, and presentations developed during my Erasmus research project at LASIGE, University of Lisbon.
