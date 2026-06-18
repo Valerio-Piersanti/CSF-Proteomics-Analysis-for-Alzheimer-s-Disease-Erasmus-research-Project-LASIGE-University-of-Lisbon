@@ -54,17 +54,6 @@ Project presentations documenting project progress and final results.
 6. Cohort effect assessment.
 7. Pathway enrichment analysis.
 
-## Technologies
-
-* Python
-* Jupyter Notebooks
-* pandas
-* NumPy
-* scikit-learn
-* matplotlib
-* seaborn
-* gseapy
-* Reactome
 
 ## Author
 
