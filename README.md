@@ -53,7 +53,6 @@ Project presentations documenting project progress and final results.
 5. Grey-zone patient investigation.
 6. Cohort effect assessment.
 7. Pathway enrichment analysis.
-8. Biological interpretation of identified patient groups.
 
 ## Technologies
 
